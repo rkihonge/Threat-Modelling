@@ -10,7 +10,7 @@ This project demonstrates how to perform threat modelling on a **banking applica
 ## Contents
 - **STRIDE_case_study.md** → Detailed STRIDE analysis for a banking app.
 - **MITRE_mapping.md** → Mapping of identified threats to MITRE ATT&CK techniques.
-- **diagrams/** → (Optional) Architecture and threat model diagrams.
+- **diagrams/**
 
 ## Why This Matters
 Banking systems are a prime target for cyberattacks due to their sensitive financial data and critical services. Threat modelling provides proactive defense strategies by highlighting risks before they are exploited.
